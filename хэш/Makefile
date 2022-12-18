@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o MD5 -lcrypto++
+	g++ main.cpp -o hash -lcrypto++
