@@ -1,2 +1,1 @@
-all:
-	g++ main.cpp -o cipher -lcrypto++
+/home/stud/C++Projects/CryptoProg/cipher/*.md
